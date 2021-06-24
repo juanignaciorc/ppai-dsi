@@ -1,0 +1,2 @@
+class PantallaReservaVisita:
+    pass

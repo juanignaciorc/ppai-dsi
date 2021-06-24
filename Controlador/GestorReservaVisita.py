@@ -1,0 +1,3 @@
+
+class GestorReservaVisita:
+    pass
